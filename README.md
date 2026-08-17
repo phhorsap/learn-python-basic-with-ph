@@ -58,3 +58,7 @@ Archive
 | 6   | Excel/PDF Upload                         |
 | 7   | สร้าง MES Dashboard ขนาดเล็ก             |
 
+
+*****************************************************************
+Stramlit installieren :   pip install streamlit
+Ausführen:     streamlit run app.py
