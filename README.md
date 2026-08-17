@@ -1,5 +1,5 @@
 
-# learn-python-basic-with-ph
+# learn-python-basic-streamlit
 
 ## Beginner
 
